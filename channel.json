@@ -3,26 +3,7 @@
     {
       "name": "sub2api-screenshot",
       "remark": "截图确认真实可用供应商，模型 gpt-5.5",
-      "baseURL": "http://43.163.119.132:1833/v1",
-      "apiKey": "sk-d793d9e6895911fd4cde57fc20f6b0873133b44924d48696ce0c552192892c43",
-      "weight": 2,
-      "errorCount": 0
-    },
-    {
-      "name": "sub2api-1",
-      "remark": "用户提供的 sub2api 上游渠道 1",
-      "baseURL": "http://43.163.119.132:1833/v1",
-      "apiKey": "sk-8165a3c2ccc101ebdc8f7c10dfcbaad05f390276c6ba6bc350009750604e2d7d",
-      "weight": 1,
-      "errorCount": 0
-    },
-    {
-      "name": "sub2api-2",
-      "remark": "用户提供的 sub2api 上游渠道 2",
-      "baseURL": "http://43.163.119.132:1833/v1",
-      "apiKey": "sk-ff381856fd0aaf70332d768b79fb02b879f8fa0f0bfeb4deca5913ae7da61c29",
-      "weight": 0,
-      "errorCount": 0
+    
     }
   ]
 }
